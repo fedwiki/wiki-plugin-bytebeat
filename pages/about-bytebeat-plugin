@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "0482ccdaca4f0a44",
-      "text": "The Bytebeat plugin generates 8 kHz sound samples by evaluating its own text as a c-like arithmetic expression in terms of t, the integer sample number. [https://github.com/WardCunningham/Smallest-Federated-Wiki/tree/master/client/plugins/bytebeat github]"
+      "text": "The Bytebeat plugin generates 8 kHz sound samples by evaluating its own text as a c-like arithmetic expression in terms of t, the integer sample number. [https://github.com/fedwiki/wiki-plugin-bytebeat github]"
     },
     {
       "type": "bytebeat",
