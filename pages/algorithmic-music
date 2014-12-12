@@ -57,7 +57,7 @@
       "text": "t*((42&t>>10)%14)"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "e25477f287669a94",
       "text": "Kragen's <i>Crowd</i>, the score for my <i>Exploring Cyberspace</i> video contribution to X-Prize."
     },
@@ -934,6 +934,17 @@
         "id": "9b2a0708ee481eb0",
         "text": "[http://canonical.org/~kragen/bytebeat/ Kragen's Introduction] to ByteBeat music."
       }
+    },
+    {
+      "type": "edit",
+      "id": "e25477f287669a94",
+      "item": {
+        "type": "html",
+        "id": "e25477f287669a94",
+        "text": "Kragen's <i>Crowd</i>, the score for my <i>Exploring Cyberspace</i> video contribution to X-Prize."
+      },
+      "date": 1418310540048
     }
-  ]
+  ],
+  "plugin": "bytebeat"
 }

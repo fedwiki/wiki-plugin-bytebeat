@@ -22,7 +22,7 @@
       "text": "<h3> Reference"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "8c103e9f98c0e6ee",
       "text": "Kragen Javier Sitaker has assembled a good introduction to the Bytebeat community [http://canonical.org/~kragen/bytebeat/ webpage] His own composition, <i>Crowd</i>, served as the score for the short film <i>Exploring Cyberspace</i>."
     },
@@ -203,6 +203,17 @@
         "text": "See also [[Algorithmic Music]]"
       },
       "date": 1361762358904
+    },
+    {
+      "type": "edit",
+      "id": "8c103e9f98c0e6ee",
+      "item": {
+        "type": "html",
+        "id": "8c103e9f98c0e6ee",
+        "text": "Kragen Javier Sitaker has assembled a good introduction to the Bytebeat community [http://canonical.org/~kragen/bytebeat/ webpage] His own composition, <i>Crowd</i>, served as the score for the short film <i>Exploring Cyberspace</i>."
+      },
+      "date": 1418310544306
     }
-  ]
+  ],
+  "plugin": "bytebeat"
 }
