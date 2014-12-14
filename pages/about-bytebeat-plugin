@@ -17,9 +17,9 @@
       "text": "t*((42&t>>10)%14)"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "f00e041611554cac",
-      "text": "<h3> Reference"
+      "text": "<h3>Reference</h3>"
     },
     {
       "type": "html",
@@ -213,6 +213,26 @@
         "text": "Kragen Javier Sitaker has assembled a good introduction to the Bytebeat community [http://canonical.org/~kragen/bytebeat/ webpage] His own composition, <i>Crowd</i>, served as the score for the short film <i>Exploring Cyberspace</i>."
       },
       "date": 1418310544306
+    },
+    {
+      "type": "edit",
+      "id": "f00e041611554cac",
+      "item": {
+        "type": "html",
+        "id": "f00e041611554cac",
+        "text": "<h3> Reference"
+      },
+      "date": 1418401024541
+    },
+    {
+      "type": "edit",
+      "id": "f00e041611554cac",
+      "item": {
+        "type": "html",
+        "id": "f00e041611554cac",
+        "text": "<h3>Reference</h3>"
+      },
+      "date": 1418401037458
     }
   ],
   "plugin": "bytebeat"
