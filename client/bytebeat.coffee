@@ -1,10 +1,17 @@
+###
+ * Federated Wiki : Bytebeat Plugin
+ *
+ * Licensed under the MIT license.
+ * https://github.com/fedwiki/wiki-plugin-bytebeat/blob/master/LICENSE.txt
+###
+
 window.plugins.bytebeat =
   emit: (div, item) ->
     div.append "<p>#{colorCode(item.text)} <a href='#' class='play'>&#9654;</a></div></p>"
     audioCheck()
   bind: (div, item) ->
     div.find('a').click => @play div, item
-    div.dblclick => 
+    div.dblclick =>
       @stop(div)
       wiki.textEditor div, item
   play: (div, item) ->
@@ -14,7 +21,7 @@ window.plugins.bytebeat =
     @audio(div).remove()
   audio: (div) ->
     div.find("audio")
-    
+
 
 colorCode = (text) ->
   text
@@ -92,4 +99,3 @@ makeURL = (text) ->
   samples = generateSound makeSampleFunction text
   channels = 1
   "data:audio/x-wav," + b(RIFFChunk(channels, bitsPerSample, frequency, samples))
-
