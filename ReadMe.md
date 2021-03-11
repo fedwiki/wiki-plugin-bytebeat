@@ -1,4 +1,4 @@
-# Federated Wiki - Bars Plugin
+# Federated Wiki - Bytebeat Plugin
 
 The Bytebeat plugin generates 8 kHz sound samples by evaluating its own text as a c-like arithmetic expression in terms of t, the integer sample number.
 
